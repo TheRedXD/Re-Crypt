@@ -1,2 +1,2 @@
-# various-projects
-Various projects
+# Re-Crypt
+Re-Crypt: The encryption algorithm.
